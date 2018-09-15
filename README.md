@@ -8,6 +8,7 @@ A minimal app that I like to use for a starting microservice projects.  You can 
 
 * SpringBoot - Not as simple as dropwizard or other micro frameworks, but comes with EVERYTHING via starters so when your microservice isn't so micro you have patterns to follow rather than roll your own
 * Swagger - Defines the api contract and is used to generate interfaces that your controllers implement
+* MyBatis Starter and Flyway - Plain ol sql thank you very much and flyway is there out of the box too.
 * Docker - Image that can be deployed anywhere is the artifact produced, so that's nice
 * Postgres - Alpine Docker image makes this a painless real db
 
