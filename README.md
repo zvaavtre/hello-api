@@ -1,5 +1,5 @@
 # hello-api
-SpringBoot, Swagger, Docker and Postgres for a little hello world api service
+SpringBoot, Swagger, Docker and Postgres for a little (LOL) hello world api service
 
 
 ## What's this?
